@@ -6,7 +6,7 @@ Leap Motion V1 documentの日本語訳（非公式）
 ## C# and Unity Docs
 ### Overview の日本語訳
 ### Guidelines
-#### Leap Motion User Experience Guidelinesの日本語訳
+#### [Leap Motion User Experience Guidelinesの日本語訳](https://developer.leapmotion.com/documentation/GetStarted/Leap_UX_Guidelines.html )
 ### Application Development
 #### Understanding the C# Sample Applicationの日本語訳
 #### Setting up a Unity projectの日本語訳
